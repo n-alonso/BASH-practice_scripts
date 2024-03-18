@@ -1,3 +1,3 @@
-# Crypto File
+# Practice Scripts
 
-Bash script to encrypt a decrypt files with OpenSSL
+Script files to practice BASH
